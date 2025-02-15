@@ -1,4 +1,39 @@
-# CampusBloodDonation
+# PACET CampusBloodDonation
+# Blood Donation & Requesting System
+
+## Overview
+The **Blood Donation & Requesting System** is a web-based platform designed to facilitate blood donation and requests within a campus or community. It allows donors to register, individuals to request blood, and provides contact information for blood banks.
+
+## Features
+- **Home Page**: Introduction to the platform.
+- **Donor Registration**: Allows users to register as blood donors by providing necessary details.
+- **Request Blood**: Users can request blood by filling out a form with required details.
+- **Blood Bank Contacts**: Displays contact information for available blood banks.
+- **Responsive Background**: Changes dynamically based on the user's device (desktop or mobile) using CSS.
+
+## Technologies Used
+- **HTML**: Structure of the website.
+- **CSS**: Styling and responsive design.
+
+## How to Use
+1. Open the website in a web browser.
+2. Navigate using the menu:
+   - Click **Home** to see the welcome message.
+   - Click **Donate** to register as a blood donor.
+   - Click **Request Blood** to request a specific blood group.
+   - Click **Contact** to view blood bank details.
+3. The background adapts based on the device being used (desktop or mobile).
+
+## Installation & Setup
+1. Clone this repository:
+   ```sh
+   git clone https://github.com/your-repository-link
+   ```
+2. Open the `index.html` file in a web browser.
+
+## Contributing
+If you wish to contribute, feel free to fork the repository and submit a pull request with improvements or additional features.
+
 
 # HTML & CSS Basics
 
